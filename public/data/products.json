@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "IPA #1",
+    "type": "ipa",
+    "description": "Освежающий IPA с цитрусовыми нотами",
+    "fullDescription": "Этот IPA обладает ярким хмелевым ароматом с нотами грейпфрута и апельсина. Идеально сбалансированная горечь и освежающее послевкусие.",
+    "abv": 6.5,
+    "ibu": 45,
+    "image": "https://domesticfits.com/wp-content/uploads/2023/02/ipa-beer-feature.jpg",
+    "gallery": ["https://domesticfits.com/wp-content/uploads/2023/02/ipa-beer-feature.jpg"],
+    "tags": ["цитрусовый", "освежающий"],
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Imperial Stout",
+    "type": "stout", 
+    "description": "Насыщенный имперский стаут",
+    "fullDescription": "Густой и насыщенный стаут с нотами шоколада, кофе и карамели. Длительная выдержка придает пиву сложный характер.",
+    "abv": 8.2,
+    "ibu": 35,
+    "image": "https://ru.inshaker.com/ckeditor_assets/pictures/8972/original_1.jpg",
+    "gallery": ["https://ru.inshaker.com/ckeditor_assets/pictures/8972/original_1.jpg"],
+    "tags": ["шоколад", "кофе"],
+    "available": true
+  },
+  {
+    "id": 3,
+    "name": "Crisp Lager",
+    "type": "lager",
+    "description": "Чистый и освежающий лагер",
+    "fullDescription": "Классический лагер с чистым вкусом и освежающим послевкусием. Идеален для любого времени года.",
+    "abv": 5.0,
+    "ibu": 20,
+    "image": "https://www.thespruceeats.com/thmb/jQPbmGEiOuesb_rgOmq9x3QHDlE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/173649903-58a6caef5f9b58a3c9fb18ed.jpg",
+    "gallery": ["https://www.thespruceeats.com/thmb/jQPbmGEiOuesb_rgOmq9x3QHDlE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/173649903-58a6caef5f9b58a3c9fb18ed.jpg"],
+    "tags": ["чистый", "освежающий"],
+    "available": true
+  },
+  {
+    "id": 4,
+    "name": "Amber Ale",
+    "type": "ale",
+    "description": "Сбалансированный эль с карамельными нотами",
+    "fullDescription": "Амбер эль с богатым malt профилем и легкой хмелевой горчинкой. Идеальный баланс сладости и горечи.",
+    "abv": 5.5,
+    "ibu": 25,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdSJz2KcAN15dhpv1IveUSI6lundF2aol27A&s",
+    "gallery": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdSJz2KcAN15dhpv1IveUSI6lundF2aol27A&s"],
+    "tags": ["карамельный", "сбалансированный"],
+    "available": true
+  }
+]
