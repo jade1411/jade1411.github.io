@@ -11,7 +11,7 @@ onMounted(() => {
   if (mapContainer.value) {
     // Инициализация Яндекс.Карты
     const script = document.createElement('script');
-    script.src = 'https://api-maps.yandex.ru/2.1/?apikey=ваш_api_ключ&lang=ru_RU';
+    script.src = 'https://api-maps.yandex.ru/2.1/?apikey=d1797d4d-610c-42d9-b957-a8136011e125&lang=ru_RU';
     script.onload = initMap;
     document.head.appendChild(script);
   }
